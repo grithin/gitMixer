@@ -1,0 +1,3 @@
+For mixing multiple git repositories into each other.  Does not expect conflicting files.
+
+ruby mix.rb help
